@@ -1,4 +1,4 @@
-# Error Hansling in Solidity
+# Error Handling in Solidity
 
 This Solidity program is a simple simulation of transactions such as depositing, withdrawing, and transfering funds to a wallet. It's purpose is to integrate error handling methods namely assert, require, and revert.
 
