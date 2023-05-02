@@ -20,7 +20,7 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 
 Once the contract is deployed, you can interact with it by entering inputs and calling the variables or functions in the sidebar. You can interact with them by simply clicking the buttons with the variable names or with the "transact" button for functions. It is recommended to click on the dropdown icons to make it easier to enter inputs:
 
-![image](https://user-images.githubusercontent.com/72584770/234551817-fc94e294-7f63-41be-8a5e-59fa6363bc21.png)
+![image](https://user-images.githubusercontent.com/72584770/235602825-40c9df3a-f23b-4e15-8a5c-fac5b55e513d.png)
 
 For functions that require an address as an input, you can copy one from the samples provided by Remix under the "ACCOUNT" dropdown which can be found in the left-hand sidebar as well:
 
